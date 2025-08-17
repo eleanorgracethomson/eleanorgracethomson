@@ -11,7 +11,12 @@ Welcome to my personal portfolio of projects, interests, and qualifications in a
 
 ---
 
-## Tech Stack & Related Work  
+## Feel free to explore my work!
+Click through my repositories to learn more about the cool stuff I’ve done. 
+
+---
+
+## Tech Stack 
 
 ### Core Data Skills  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
