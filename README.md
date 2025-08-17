@@ -2,8 +2,8 @@
 Welcome to my personal portfilio of porjects, interests, and qualifications in all things python, SQL, and data science!
 
 ---------------------------------------------------
-###Eleanor Thomson
-####Data Scientist from Texas Tech University 
+Eleanor Thomson
+Data Scientist from Texas Tech University 
 BA Infomation Technology - 2025 
 MS Data Science and Quantitative Studies - 2026 
 
